@@ -1,9 +1,17 @@
 Mint Oracle's NFT: 9f17fe64e371aa4b98ea61d7542d536e079b0a4e76be4543d17311f00358a883
+
 Deploy Oracle: 253b762830050a200084c879ff2d5063bd5fd382dfb85d9ad8fbcff423d2d541
+
 Owner deploy Scripts: f86d2981871b121ae45ff051d6f5c5d564de2fc906d73cd3d0eee131414e20f2
+
 User 1 mint 10 USDP: ef1cfb9808331b6c2753ea26b9bb2e589f61e11a1e2ec92e1cee288db2b5fa26
+
 User 1 burn 10 USDP: 0244c4525b40a9cdf069314c4d389f3853411243910a67513366b4376c16dc00
+
 User 1 mint 10 stable coin usdp: 69ae87b5ce061ad221839d00cbf1bf01fc4fd9214b51457f0d964beca8cb9355
+
 User 2 mint 50 stable coin usdp: 6f662b8cac3fd4628b34c6703e9faa1bf882f2a9c47ec6410198803bbb3dab2a
+
 Oracle update price down to 0.9 = 90 cent :74c96e86c5a29ed3cf9620bdd2b5e9b377ee706cd9f7ef4ff79fcf8cd96f31db
+
 User 2 liquite utxo user 1: 1b3f3183d869ab3d028ea07102978ec495f4cf8f9b348b1fee2ab3ac313e3ee4
